@@ -1,3 +1,4 @@
+// good... I'll present how I did this in class; take note of those techniques to shorten code length and avoid headaches with tracking comparisons etc
 import java.util.Arrays;
 
 public class ImmutableSort {
