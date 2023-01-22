@@ -1,3 +1,4 @@
+// good; I'll show you a way to do this in a more readable (and extensible way) in class
 public class ThreeArrayRange {
     public static void main(String[] args) {
         int[] a = {2, 2, 2};
